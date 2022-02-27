@@ -1,12 +1,11 @@
 # UFOs
 UFO Sightings with JavaScript
 
-# Deliverable 2 Instructions
-For your written analysis, be sure to use complete and coherent sentences. Your written analysis should contain three sections, which cover the following:
+## Overview of Project: In this Project, we are helping Dana to present the given data on UFOs both visually appealing and interactive while exploring the front end developement language - javascript. Javascript brings extra functionality and customisation to enhance user experience.We will be focusing on dynamic web pages. 
 
-## Overview of Project: Explain the purpose of this analysis.
+## Results: We built our dynamic web pages by inserting javascript into an html page. With our prior knowledge of bootstrap, css, and some chrome dev tools, we built a table to hold a neatly displayed data we wanted to work with. Then we described to Dana how someone might use the new webpage by walking her through the process of using the search criteria.We have added filters to the table so that users can refine their search on different levels. There are five filters and by combining or individual filters user can view data from different date, city. state, country,and shape as shown in below images:  
 
-## Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+Use images of your webpage during the filtering process to support your explanation.
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
