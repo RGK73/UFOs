@@ -43,6 +43,8 @@ The filter method is case sensitive. Therefore if a user entered any items in up
 The user may not know exactly what period the data is from, so the user might type in dates that we don't have data for. For the date filter, the user should be able to click through a calendar.
 The same issue with the Shape field, without knowing what the shape options are, the user will not know what terms to search for.
 
+![alt text](https://github.com/RGK73/UFOs/blob/main/Images/drawbacks.png)
+
 Recommendations for further development:
 
 Remove case-sensitivity in all the textbox search fields.
